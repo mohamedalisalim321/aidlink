@@ -59,7 +59,7 @@ class SettingsPage extends StatelessWidget {
                   _socialButton(
                     icon: Icons.code_rounded,
                     color: Colors.black,
-                    url: "https://github.com/mohamedalisalim321/quto",
+                    url: "https://github.com/mohamedalisalim321/aidlink",
                   ),
                 ],
               ),

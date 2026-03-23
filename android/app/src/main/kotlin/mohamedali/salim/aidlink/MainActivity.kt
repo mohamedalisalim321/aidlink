@@ -1,4 +1,4 @@
-package com.example.aidlink
+package mohamedali.salim.aidlink
 
 import io.flutter.embedding.android.FlutterActivity
 
